@@ -1,0 +1,32 @@
+{
+    "proyectos": [
+        {
+            "id": 1,
+            "nombre": "Proyecto Clínica Ondontológica",
+            "descripción": "Desarrollo de un sistema de gestión para la clínica",
+            "tareas": [
+                {
+                 "id": 1,
+                 "nombre": "Diseñar la base de datos",
+                 "descripción": "Definir las tablas, campos y relaciones para almacenar",
+                 "estado_completado": false,
+                 "fecha_limite": "2024-12-01"   
+                },
+                {
+                    "id": "Implementar backend",
+                    "nombre": "Crear APIs necesarias para gestionar las ope",
+                    "estado_completado": false,
+                    "fecha_limite": "2024-12-15" 
+                },
+                {
+                    "id":3,
+                    "nombre": "Diseño de UI/UX",
+                    "descripción": "Desarrollar una interfaz amigable para la gestión",
+                    "estado_completado": true,
+                    "fecha_limite": "2024-11-20"
+                }
+            ]
+        }
+        ]
+
+    }
